@@ -19,12 +19,3 @@ Accuracy of the model --> 95.7%
 - Matplotlib
 
 On your terminal run command *pip install -r requirements.txt* to install all requirements or just run *python install_requirements.py*
-
-	
-# Run in Gitpod
-
-You can also run this program in Gitpod, a free online dev environment for GitHub:
-
-Click on the link and watch the AI Digit Guesser in action.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rudrajit1729/Digit-Guesser-Neural-Network/blob/master/drawDigit.py)
