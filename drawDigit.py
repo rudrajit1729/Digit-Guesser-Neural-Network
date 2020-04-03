@@ -148,10 +148,10 @@ def guess(binpix):
     #plt.show()
     
 def main():
-    #window = Tk()
-    #window.withdraw()
-    #messagebox.showinfo("Instructions", "Draw using left mouse click\nErase using right mouse click\nPress space to get prediction ")
-    #window.destroy()
+    window = Tk()
+    window.withdraw()
+    messagebox.showinfo("Instructions", "Draw using left mouse click\nErase using right mouse click\nPress space to get prediction ")
+    window.destroy()
     run = True
     
     while run:
