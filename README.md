@@ -17,3 +17,5 @@ Accuracy of the model --> 95.7%
 - Keras
 - Numpy
 - Matplotlib
+
+On your terminal run command *pip install -r requirements.txt* to install all requirements or just run *python install_requirements.py* 
